@@ -1,0 +1,640 @@
+Tous droits réservés © HEC Montréal, 1986 Ce document est protégé par la loi sur le droit d’auteur. L’utilisation des
+services d’Érudit (y compris la reproduction) est assujettie à sa politique
+d’utilisation que vous pouvez consulter en ligne.
+https://apropos.erudit.org/fr/usagers/politique-dutilisation/
+Cet article est diffusé et préservé par Érudit.
+Érudit est un consortium interuniversitaire sans but lucratif composé de
+l’Université de Montréal, l’Université Laval et l’Université du Québec à
+Montréal. Il a pour mission la promotion et la valorisation de la recherche.
+https://www.erudit.org/fr/
+Document généré le 30 déc. 2023 05:38
+L'Actualité économique
+Analyse de la performance d’étudiants au baccalauréat en
+administration en fonction de leurs caractéristiques à l’entrée
+An analysis of the student's performance in a B.A.A. program
+Denyse L. Dagenais
+Volume 62, numéro 2, juin 1986
+URI : https://id.erudit.org/iderudit/601368ar
+DOI : https://doi.org/10.7202/601368ar
+Aller au sommaire du numéro
+Éditeur(s)
+HEC Montréal
+ISSN
+0001-771X (imprimé)
+1710-3991 (numérique)
+Découvrir la revue
+Citer cet article
+Dagenais, D. L. (1986). Analyse de la performance d’étudiants au baccalauréat
+en administration en fonction de leurs caractéristiques à l’entrée. L'Actualité
+économique, 62(2), 185–209. https://doi.org/10.7202/601368ar
+Résumé de l'article
+Les économistes s’intéressent depuis longtemps à divers aspects de l’éducation
+comme, par exemple : la mesure de l’output, l’analyse des déterminants du
+succès scolaire ou la pédagogie.
+Cette étude se situe dans cette ligne de préoccupations. En effet, elle cherche à
+voir si certaines caractéristiques académiques contenues dans le dossier de
+l’étudiant au moment de son admission contribuent à expliquer en partie ses
+résultats à l’université. Cette étude porte sur des étudiants inscrits à un
+baccalauréat en administration. Toutefois étant donné les liens qui existent
+entre l’économie et l’administration, il est probable que plusieurs des résultats
+obtenus se vérifieraient aussi dans le cadre d’études sur des étudiants en
+économie.
+Cette analyse fait ressortir plusieurs éléments importants. On note par
+exemple, une relation positive très significative entre la performance de
+l’étudiant dans le programme et ses résultats scolaires au cégep ainsi que ses
+résultats à des tests d’admission. De plus l’étudiant qui a choisi la
+concentration « sciences » au cégep réussit en général mieux que celui qui
+vient de la concentration « sciences humaines » même si, à l’intérieur de
+celle-ci, l’étudiant a choisi un profil « sciences administratives ».
+L'Actualité Économique, Revue d'analyse économique, Vol. 62, n° 2, juin 1986
+ANALYSE DE LA PERFORMANCE
+D'ÉTUDIANTS AU BACCALAURÉAT EN
+ADMINISTRATION EN FONCTION DE
+LEURS CARACTÉRISTIQUES À L'ENTRÉE
+Denyse L. DAGENAIS,
+Institut d'économie appliquée,
+Ecole des Hautes Etudes Commerciales de Montréal
+Les économistes s'intéressent depuis longtemps à divers aspects de l'éducation
+comme, par exemple : la mesure de l'output, l'analyse des déterminants du succès
+scolaire ou la pédagogie.
+Cette étude se situe dans cette ligne de préoccupations. En effet, elle cherche à
+voir si certaines caractéristiques académiques contenues dans le dossier de l'étudiant au moment de son admission contribuent à expliquer en partie ses résultats à
+l'université. Cette étude porte sur des étudiants inscrits à un baccalauréat en
+administration. Toutefois étant donné les liens qui existent entre l'économie et
+l'administration, il est probable que plusieurs des résultats obtenus se vérifieraient
+aussi dans le cadre d'études sur des étudiants en économie.
+i
+Cette analyse fait ressortir plusieurs éléments importants. On note par
+exemple, une relation positive très significative entre la performance de l'étudiant
+dans le programme et ses résultats scolaires au cégep ainsi que ses résultats à des
+tests d'admission. De plus l'étudiant qui a choisi la concentration « sciences » au
+cégep réussit en général mieux que celui qui vient de la concentration « sciences
+humaines » même si, à l'intérieur de celle-ci, l'étudiant a choisi un profil « sciences
+administratives».
+An analysis ofthe student's performance in a B.A.A. program. — Economists hâve
+long been interested in différent aspects of éducation such as, the measure of its
+output, the analysis of the déterminants of scholarly achievement or the pedagogical approach.
+This study stands within the same lines of préoccupations. Indeed, it tries to
+find out whether some of the académie characteristics contained in the student
+record when admitted to the University contribute in part to explain his results.
+Monique Bélanger, attachée de recherche au programme de baccalauréat en administration, a contribué de façon significative à ce travail.
+186 L'ACTUALITÉ ÉCONOMIQUE
+The study considers students enrolled in a bachelor degree program in administration. However, given that économies and administration are related topics, one
+can anticipate that several of the results of this study would also be verified in
+studies concerned with économies students.
+Our analysis reveals a number of important points. For example, a very
+significant positive relationship is shown to exist between the student's performance in the B.A.A. program and his grades at the cégep as well as his results at the
+admission tests.
+Furthermore, the cégep student who cornes from the " science " concentration
+succeeds better, in gênerai, than the student from the "social science" concentration even if, within this concentration, the student has selected a "business administration" profile.
+INTRODUCTION
+L'intérêt des économistes pour le domaine de l'éducation ne date pas
+d'hier, mais on peut considérer que cet intérêt s'est traduit en activités de
+recherche et en publications surtout au cours des vingt dernières années1
+.
+Cet intérêt a porté sur différentes questions notamment sur les programmes d'enseignement, la mesure de l'output, les variables qui influencent le succès scolaire et les méthodes pédagogiques.
+Comme exemples récents d'écrits dans ce domaine on peut mentionner: l'article de Hansen (1986) qui s'interroge sur les connaissances les
+plus importantes à transmettre à l'étudiant inscrit à un majeur en économie, les travaux de Siegfried et Raymond (1984) qui présentent entre
+autres une analyse des déterminants du succès scolaire chez des étudiants
+en économie, la présentation de Sumansky sur les applications de l'ordinateur pour l'enseignement de l'économie au secondaire (1985), ou encore celle de Bach et Kelley sur les moyens d'améliorer l'enseignement de
+l'économie, et finalement l'étude de Fizel et Johnson (1986) concernant
+l'influence de la séquence des cours de théorie (micro et macro) sur les
+attitudes des étudiants face à l'économie et sur leur apprentissage de cette
+discipline.
+Notre étude s'inscrit dans cette même ligne de préoccupations. Plus
+spécifiquement nous cherchons à voir si certaines caractéristiques académiques contenues dans le dossier de l'étudiant au moment de son admission contribuent à expliquer en partie ses résultats à l'université. Cette
+étude ne porte toutefois pas sur des étudiants inscrits à un baccalauréat
+spécialisé en économie. Il s'agit d'étudiants inscrits à un baccalauréat en
+1. À ce sujet, voir: Frenzel and McCready (1982), «Economies of Education: The
+Development of a Sub-discipline».
+ANALYSE DE LA PERFORMANCE D'ÉTUDIANTS 187
+administration2
+. Toutefois, étant donné les liens qui existent entre l'économie et l'administration, il est probable que plusieurs des résultats
+obtenus se vérifieraient aussi dans le cadre d'études sur des étudiants en
+économie.
+Ce travail se divise en deux parties. Dans une première partie, nous
+cherchons à voir si certaines variables comme par exemple le « score Z »3
+ et
+le type de formation reçue au cégep sont correlées avec les résultats
+universitaires de l'étudiant à des cours spécifiques, à savoir, à chacun des
+cours offerts au niveau de la première année du programme ainsi qu'à
+certains cours de deuxième année.
+Dans la deuxième partie, nous considérons non plus le succès de
+l'étudiant dans chacun des cours mais sa performance globale, c'est-à-dire
+sa moyenne de première et de deuxième année et sa moyenne générale
+pour l'ensemble du programme de baccalauréat.
+En guise de conclusion, nous reprenons les éléments importants qui
+semblent se dégager de cette étude.
+1 - L'INFLUENCE DE CERTAINES CARACTÉRISTIQUES DE L'ÉTUDIANT DE
+CÉGEP SUR SA PERFORMANCE DANS CERTAINS COURS DU PROGRAMME
+Le modèle
+Nous avons cherché à voir si certaines caractéristiques académiques
+contenues dans le dossier de l'étudiant au moment de son admission
+contribuaient à expliquer en partie ses résultats à chacun des cours offerts
+au niveau de la première année du programme et à certains cours de
+deuxième année4
+.
+Les variables retenues pour fins d'analyse ont été le score Z, les
+résultats aux tests d'admission5
+, le type de formation choisi au cégep, le
+fait d'avoir suivi ou non un cours dans la même discipline au cégep et
+l'année d'admission (de 1978 à 1983).
+2. L'étude porte sur les étudiants admis au baccalauréat en administration de l'école des
+Hautes Études Commerciales de Montréal.
+3. Le score Z représente la moyenne de l'étudiant au cégep, normalisée par rapport au
+groupe. Pour chacun des cours, le groupe de référence est l'ensemble des étudiants d'un
+même collège qui ont suivi le même cours à la même session.
+4. Notez que, comme il s'agit d'une analyse statistique, nous utilisons les termes «expliquer» et «influencer» pour désigner des relations statistiques. Celles-ci n'impliquent pas
+nécessairement des relations causales.
+5. Les tests dont il est question ici sont un test de raisonnement, un test qui cherche à
+mesurer la capacité de l'étudiant à saisir le sens et les implications d'un texte et jusqu'en 1981,
+un test de mémoire. Ce dernier a été remplacé, par la suite, par un test visant à mesurer le
+rythme d'apprentissage. C'est la moyenne arithmétique des résultats obtenus aux tests qui
+est utilisée.
+188 L'ACTUALITÉ ÉCONOMIQUE
+Nous avons supposé, en effet, que le résultat d'un étudiant à un cours
+donné dépendait des capacités de cet étudiant à réussir un B.A.A., capacités mesurées par son score Z collégial et ses résultats aux tests d'admission.
+Dans une étude précédente6
+, ces deux variables se sont révélées très
+significativement reliées aux probabilités de succès des étudiants dans le
+programme. Nous avions tout lieu de croire qu'elles seraient aussi significatives au niveau désagrégé, c'est-à-dire pour expliquer la performance
+dans chacun des cours. Cette hypothèse restait toutefois à vérifier.
+Nous avons retenu aussi, comme variable explicative, le type de formation choisi par l'étudiant au cégep, soit : la concentration sciences qui
+comprend les sciences de la santé et les sciences pures, la concentration
+sciences humaines qui englobe les sciences administratives, et le D.E.C.
+professionnel qui regroupe tous les profils techniques7
+.
+Nous avons aussi introduit une variable dichotomique qui permet de
+distinguer les étudiants selon qu'ils ont suivi ou non un cours dans la
+même discipline au cégep8
+.
+Enfin, des variables dichotomiques ont été ajoutées pour tenir
+compte, par exemple, des différences qui pourraient exister selon les
+années entre les populations admises, des variations qui ont pu avoir lieu
+au cours des années entre les niveaux d'exigences, ou encore des modifications qui ont été apportées à certains cours.
+Pour chacun des cours analysés, le modèle que nous avons retenu est
+un modèle de régression multiple du type
+Y = XB + U
+où le vecteur Y représente le résultat en pourcentage obtenu par chacun
+des étudiants à un cours donné,
+la matrice X désigne l'ensemble des variables explicatives,
+6. Dagenais (1984).
+7. Comme notre échantillon ne contenait que quelques étudiants ayant choisi une
+concentration arts et lettres, nous avons jugé préférable de les exclure de cette analyse.
+8. L'information dont on dispose à ce sujet n'est pas parfaite. En effet, la majorité des
+étudiants n'ont pas complété leur D.E.C. au moment où ils soumettent leur demande
+d'admission. L'analyse est donc faite à partir des informations disponibles à ce moment-là.
+On constate, en fait, que la très grande majorité des étudiants ont suivi 24 cours au moment
+où ils soumettent leur demande d'admission alors que le D.E.C. général comprend 28 cours.
+Il en résulte que l'on a nécessairement classifié dans la catégorie « étudiants n'ayant pas suivi
+de cours dans la même discipline au cégep » certains étudiants qui, dans les faits, en ont suivi.
+On peut donc présumer que le coefficient qui affecte cette variable est biaisé vers zéro et que
+l'écart qui existe entre les étudiants qui ont suivi des cours au cégep dans les disciplines
+enseignées au programme, par rapport à ceux qui ne l'ont pas fait serait, dans les faits, un
+peu plus important.
+ANALYSE DE LA PERFORMANCE D'ÉTUDIANTS 189
+B est le vecteur des coefficients et
+U le vecteur d'erreurs résiduelles.
+On sait que l'utilisation de variables dichotomiques exige l'élimination
+d'une catégorie par classe. Dans la classe des concentrations, la concentration omise est celle des sciences humaines, alors que pour les années
+d'admission, c'est l'année 1978 qui a été omise. L'effet des catégories
+manquantes se retrouve implicitement dans le terme constant de la régression. Par ailleurs, les coefficients qui affectent les variables retenues
+représentent les effets différentiels par rapport aux catégories omises.
+Nous avons normalisé les variables score Z et résultats aux tests d'admission. Nous croyons, en effet, qu'il est ainsi plus facile d'évaluer l'importance relative de ces deux variables dans l'explication de la performance des étudiants aux différents cours, en comparant les valeurs de
+leurs coefficients.
+Pour l'étudiant qui aurait exactement la moyenne du groupe au score
+Z et aux tests, la valeur normalisée du score Z et celle des tests seraient
+égales à 0. Dans ce cas, la valeur de la constante, pour un étudiant de la
+concentration sciences humaines inscrit en 1978 et qui n'aurait pas suivi
+de cours dans la même discipline au cégep, représenterait la valeur
+attendue du résultat de cet étudiant pour le cours en question9
+.
+Le modèle retenu pour cette analyse est celui généralement utilisé
+pour ce genre d'études10
+. Ce modèle convient bien, en effet aux objectifs
+de l'étude qui cherche essentiellement à déterminer si certaines caractéristiques académiques des étudiants influencent leurs succès à l'université.
+Par ailleurs, on pourrait concevoir un modèle plus complet qui tenterait d'expliquer simultanément la persévérance dans le programme et le
+rendement scolaire. Nous travaillons présentement à l'élaboration d'un tel
+modèle qui s'apparente à certains des modèles présentés dans Maddala
+(1983)11
+.
+Les données
+Notre échantillon est constitué de 1951 individus. Il s'agit des étudiants qui ont été admis au B. A.A. sur la base de leurs scores Z et de leurs
+9. Comme dans chacune des régressions certaines observations ont dû être rejetées (par
+exemple, parce qu'elles étaient incomplètes), il serait plus juste de dire que la moyenne
+normalisée du score Z et celle des tests sont près de zéro et que leurs écarts-types sont près de
+un.
+10. Par exemple, les travaux de Siegfried et Raymond (1984) ou encore ceux de
+Summers et Wolfe (1977).
+11. Voir chapitre 7.
+190 L'ACTUALITÉ ÉCONOMIQUE
+résultats aux tests d'admission, entre 1978 et 1983 inclusivement et qui
+ont persévéré dans le programme pendant au moins une année12
+.
+On retrouve au tableau 1, la répartition des étudiants pour chacune
+des catégories retenues pour fins d'analyse. On remarque que 79 % des
+étudiants ont une concentration sciences humaines et qu'à l'intérieur de
+celle-ci, 83 % ont un profil sciences administratives inscrit à leur bulletin.
+18 % des étudiants ont une concentration sciences et une petite minorité
+ont un D.E.C. professionnel (3 %). La très grande majorité de ces derniers ont un D.E.C. professionnel relié à l'administration (80 %). Enfin,
+86 % des étudiants ont déjà suivi au moins un cours d'économie au cégep,
+64 % un cours de psychologie, 42 % un cours d'administration, 36 % un
+cours de comptabilité et 22 % un cours de sociologie. Enfin, 77 % des
+étudiants proviennent de collèges publics.
+Les estimations
+L'analyse a été faite pour tous les cours de première année soit:
+Introduction à l'administration, Fondements psychologiques et organisation, Sociologie de l'organisation, Méthodes Statistiques I et II, Analyse
+économique (micro et macro), et Comptabilité générale.
+Les estimations obtenues sont présentées au tableau 2l:\ La lecture de
+ce tableau nous permet de constater que pour tous les cours, les coefficients qui affectent le score Z et les résultats aux tests sont positifs et que
+les statistiques de Student sont très élevées. Les étudiants qui ont des
+scores Z plus élevés ou qui ont obtenu de meilleurs résultats aux tests
+d'admission réussissent en moyenne mieux dans toutes les disciplines
+enseignées en première année du programme.
+Ces variables ayant été normalisées, ces résultats suggèrent que le
+score Z a une influence plus marquée sur la performance des étudiants
+que les résultats aux tests. Ceci se révèle vrai pour tous les cours mais à des
+degrés divers. Par exemple, le coefficient qui affecte le score Z pour le
+12. Sont exclus de cette analyse, les étudiants admis sur la base d'un dossier universitaire
+ou de diplômes jugés équivalents ainsi qu'un petit nombre d'étudiants qui ont été exemptés
+des tests en 1982 et en 1983, en raison de leurs scores Z élevés. Comme cette dernière
+exclusion s'est faite sur la base des valeurs d'une variable explicative et qu'elle ne dépend pas
+de la valeur de la variable dépendante, elle ne doit pas en principe, engendrer de biais dans
+nos résultats.
+13. La variable dichotomique «a suivi un cours dans la même discipline au cégep» n'a
+pas été introduite dans l'analyse des cours de statistiques puisque tous les étudiants ont
+nécessairement suivi des cours de cette nature au cégep. De plus, un seul cours d'économie
+s'offrait en première année du programme jusqu'en 1981, soit le cours de microéconomie.
+L'analyse des variables qui influencent la réussite au cours de macroéconomie n'a donc été
+faite qu'avec les données concernant les étudiants admis depuis 1981, soit la moitié de
+l'échantillon.
+ANALYSE DE LA PERFORMANCE D'ÉTUDIANTS 191
+cours d'administration est trois fois plus important que celui qui affecte
+les résultats aux tests, alors que pour le cours de Statistiques I, les deux
+coefficients sont assez voisins.
+Ces résultats sont très semblables à ceux obtenus dans une étude
+antérieure14
+. On notait alors que le score Z était un prédicteur un peu
+meilleur des résultats des étudiants mais que, par ailleurs, les résultats aux
+tests étaient davantage corrélés au taux de persévérance des étudiants
+dans le programme. Il est intéressant de noter aussi que ces deux variables
+ne sont pas correlées entre elles. En effet, leur coefficient de corrélation
+est presque nul ( — 0,077). Cette absence de corrélation entre le score Z et
+les résultats aux tests peut sembler surprenante. Cette situation peut
+s'expliquer en partie par le fait que les tests ont justement été choisis de
+façon à fournir des informations additionnelles sur les possibilités pour un
+étudiant de réussir le programme, informations que le score Z ne donnait
+pas.
+On note de plus, que le coefficient qui affecte la variable sciences est
+toujours positif et que, sauf pour le cours de macroéconomie, les statistiques de Student sont toutes supérieures à 2. L'étudiant qui s'inscrit au
+programme après avoir terminé un D.E.C. avec une concentration
+sciences réussit en moyenne mieux que l'étudiant de sciences humaines
+dans les cours offerts en première année. Ainsi, pour un même score Z et
+un même résultat aux tests, l'étudiant qui a une concentration sciences
+obtient en moyenne, dans le cours de microéconomie, une note de sept
+points plus élevée que celui qui a une concentration sciences humaines.
+De façon générale, on remarque que les coefficients qui affectent les
+cours d'administration, de psychologie et de sociologie, tout en étant très
+significatifs, sont plus faibles que ceux qui affectent les cours d'économie,
+de comptabilité et de statistiques. Ceci s'explique probablement en partie
+par le fait que pour ces cours, chaque année, la variabilité des résultats
+autour de la moyenne obtenue pour l'ensemble des étudiants, telle que
+mesurée par l'écart-type, est beaucoup plus faible. En effet, l'écart-type
+pour le cours d'administration se situe, chaque année, autour de 5,8 et
+celui des cours de psychologie et de sociologie autour de 7,7 alors que
+pour les autres cours il est plutôt de l'ordre de 14.
+Les coefficients qui affectent la variable D.E.C. professionnel sont
+toujours positifs mais leurs statistiques de Student sont souvent très
+faibles. On ne peut donc pas rejeter l'hypothèse qu'il n'y a aucune différence significative, quant à la performance dans le programme, entre ces
+étudiants et ceux qui ont choisi la concentration sciences humaines à
+14. Dagenais(1984).
+192 L'ACTUALITÉ ÉCONOMIQUE
+l'exception toutefois des cours de comptabilité et de psychologie, où ces
+étudiants sembleraient réussir mieux15
+.
+Pour un même score Z et des résultats aux tests semblables, les résultats des étudiants aux cours de sociologie et de psychologie sont en
+moyenne légèrement plus élevés s'ils ont suivi des cours dans cette discipline au cégep. Toutefois, cette augmentation semble beaucoup plus
+importante lorsqu'il s'agit du cours de comptabilité. On estime que cette
+connaissance préalable contribue à hausser de 6,4 points les résultats des
+étudiants au cours de comptabilité de première année. Par ailleurs, l'étudiant qui a suivi un cours d'économie au cégep réussira en moyenne
+mieux en microéconomie, mais on ne peut rejeter l'hypothèse que cela
+n'influencera pas ses résultats en macroéconomie. En effet, bien que
+positif, le coefficient qui affecte cette variable a une statistique de Student
+peu élevée. Enfin, le coefficient qui affecte la variable «a suivi un cours
+d'administration au cégep» est négatif et significatif mais très faible.
+Dans une première analyse, faite sans tenir compte des concentrations, nous avions obtenu des résultats quelque peu différents. En effet,
+dans cette première analyse, les coefficients qui affectaient la variable «a
+suivi un cours dans la même discipline au cégep » étaient toujours plus
+faibles, et même, dans le cas des cours d'économie, les résultats de l'estimation, sans tenir compte des concentrations, étaient très différents. Par
+exemple, pour le cours de microéconomie, le coefficient était négatif,
+bien que non significatif. Une étude plus attentive du phénomène a
+permis de constater que la majorité des étudiants qui n'ont pas suivi de
+cours d'économie au cégep, venaient de la concentration sciences. En
+effet, seulement 39 % des étudiants de la concentration sciences ont suivi
+des cours d'économie au cégep, alors que ce pourcentage est de 86 pour
+l'ensemble des étudiants. D'ailleurs le coefficient de corrélation entre ces
+deux variables (concentration sciences et économie) est de — 0,618. Or les
+étudiants de la concentration sciences réussissent en général mieux dans
+tous les cours. Par conséquent, lorsqu'on ne tient pas compte des concentrations, les étudiants qui ont une formation en sciences et qui, pour la très
+grande majorité, n'ont pas suivi de cours d'économie au cégep, contribuent à hausser la moyenne du groupe d'étudiants qui n'a pas suivi de
+cours dans cette discipline au cégep. Ceci donne alors l'impression que les
+étudiants qui ont suivi un cours d'économie au cégep ne réussissent pas
+mieux que les autres dans cette discipline en première année du programme. Si cependant, on introduit comme variables explicatives, les
+concentrations, on peut alors saisir l'effet séparé des deux variables. On
+15. Il est important de noter toutefois, qu'étant donné le faible nombre d'étudiants qui
+ont un D.E.C. professionnel dans notre échantillon, il n'est pas étonnant que cette variable
+soit non significative dans plusieurs cas.
+ANALYSE DE LA PERFORMANCE D'ÉTUDIANTS 193
+constate alors, d'une part que les étudiants de la concentration sciences
+réussissent en général mieux dans tous les cours et, d'autre part, qu'à
+l'intérieur de chacune des catégories, ceux qui ont suivi un cours d'économie au cégep réussissent en général mieux en microéconomie.
+Enfin, l'utilisation de variables dichotomiques pour tenir compte des
+différences qui peuvent exister selon les années s'avère importante. En
+effet, pour tous les cours, il existe des différences significatives entre
+l'année 1978 et les autres. On ne peut toutefois déceler de tendance
+systématique à la hausse ou à la baisse.
+Dans une étude préliminaire, nous avions essayé de distinguer les
+étudiants qui avaient un profil sciences administratives inscrit à leur
+bulletin, des autres étudiants de la concentration sciences humaines. Or,
+nous avons constaté que le coefficient qui affectait cette variable n'était
+pas significativement différent de zéro, c'est-à-dire qu'on ne pouvait
+rejeter l'hypothèse qu'il n'y avait pas de différence entre ces deux groupes
+d'étudiants en ce qui a trait à leur performance aux différents cours
+offerts en première année du programme. Cependant, nous avons
+constaté qu'à l'intérieur du profil sciences administratives, se retrouvent
+des étudiants qui ont suivi plusieurs cours directement reliés à l'administration et d'autres qui n'en ont suivi aucun, si ce n'est les cours de
+mathématiques exigés à l'entrée dans le programme de baccalauréat en
+administration. Par conséquent, deux étudiants ayant suivi exactement
+les mêmes cours peuvent, selon leur cégep d'appartenance, se retrouver
+l'un dans la catégorie sciences administratives et l'autre dans la catégorie
+sciences humaines. Nous avons pensé que ceci pouvait expliquer l'absence
+de différence observée dans la performance des étudiants de ces deux
+profils.
+Nous avons donc construit artificiellement un profil sciences administratives qui ne retenait cette fois que les étudiants qui s'étaient au moins
+familiarisés avec quelques-unes des disciplines enseignées en première
+année du programme, disciplines qui se retrouvent d'ailleurs dans plusieurs profils sciences administratives offerts au collégial.
+Nous avons considéré qu'un étudiant de la concentration sciences
+humaines avait un profil sciences administratives, s'il s'était inscrit à au
+moins cinq cours dans deux des trois domaines suivantslfi: sociologie et
+psychologie — économie — administration (incluant comptabilité). 1112
+des 1540 étudiants qui avaient un D.E.C. en sciences humaines correspondaient à ce profil, soit 57 % de notre échantillon et les 428 autres
+étudiants de sciences humaines, soit 22 % de notre échantillon, ont été
+16. Il est à noter toutefois que tous les étudiants doivent, de plus, avoir réussi les cours
+de mathématiques 103, 105 et 203 (et aussi 101, avant 1981).
+194 L'ACTUALITÉ ÉCONOMIQUE
+placés dans la concentration sciences humaines excluant l'administration
+(sciences humaines E.A.). Nous avons donc cherché à voir si, pour un
+même score Z et des résultats aux tests semblables, il existait une différence significative dans la performance des étudiants selon qu'ils avaient
+un profil sciences administratives ou un profil sciences humaines E.A.
+Encore une fois, nous n'avons observé aucune différence significative
+dans la performance aux différents cours offerts en première année du
+B.A.A. entre les étudiants qui répondent au profil sciences administratives et ceux qui ont un profil sciences humaines E.A. De plus, les coefficients qui affectaient toutes les autres variables étaient très semblables à
+ceux obtenus dans les estimations précédentes ; par conséquent nous n'en
+reprendrons pas l'analyse17
+.
+Enfin, nous avons cherché à voir si l'influence des variables retenues
+dans cette analyse se faisait sentir aussi au niveau des cours de deuxième
+année, dans ces mêmes disciplines, ou si au contraire, elle disparaissait
+après la première année. Nous avons donc effectué les mêmes estimations
+mais, cette fois, en prenant comme variable dépendante le résultat obtenu
+par l'étudiant à chacun des cours obligatoires de deuxième année portant
+sur une discipline enseignée en première année. Ces cours sont: Problèmes et politiques économiques, Comptabilité de gestion et Recherche
+opérationnelle. Les résultats de ces estimations sont présentés au tableau
+3. Les grandes tendances observées précédemment se retrouvent encore
+au niveau de la deuxième année. En effet, les coefficients qui affectent les
+variables score Z, résultats aux tests, concentration sciences, sont tous
+positifs, avec des statistiques de Student supérieures à 2. Par ailleurs, le
+coefficient qui affecte la variable D.E.C. professionnel est positif mais non
+significatif pour les cours de mathématiques et de comptabilité, et négatif
+pour le cours d'économie.
+De plus, il semble que l'étudiant qui a suivi un cours ou plus de
+comptabilité au cégep réussit mieux, aux deux cours de comptabilité qui
+sont obligatoires pour tous, dans le cadre du programme. Il semble
+d'ailleurs que, parmi les cours considérés, ce soit le seul type de cours pour
+lequel l'influence se poursuit au-delà de la première année.
+Nous verrons, dans la seconde partie de cette étude, que cette influence positive se fait également sentir sur la moyenne générale de
+l'étudiant. Pour cette raison, nous avons voulu pousser un peu plus loin
+notre analyse et nous nous sommes demandés si les étudiants qui avaient
+suivi deux cours de comptabilité ou plus au cégep réussissaient mieux que
+ceux qui n'en avaient suivi qu'un seul.
+17. Les résultats de ces estimations additionnelles sont regroupés dans une annexe
+statistique disponible sur demande.
+ANALYSE DE LA PERFORMANCE D'ÉTUDIANTS 195
+À cette fin, nous avons introduit une nouvelle variable dichotomique
+pour distinguer les étudiants qui avaient suivi plus d'un cours de comptabilité.
+Le coefficient qui affecte cette nouvelle variable donne en fait, l'effet
+additionnel provenant du fait d'avoir suivi plus d'un cours de comptabilité
+au cégep18
+. Le coefficient qui affectait cette variable était positif dans
+l'analyse du cours de première année et négatif pour ce qui est du cours
+de deuxième année; mais dans les deux cas ceux-ci n'étaient pas significatifs à un niveau de confiance de 95 %. On ne peut donc rejeter l'hypothèse
+que le fait d'avoir suivi plus d'un cours de comptabilité au cégep n'ajoute
+rien à la performance des étudiants dans les cours de comptabilité offerts
+à titre de cours obligatoires dans le cadre du programme.
+On verra toutefois, dans la section qui suit, que les résultats sont
+quelque peu différents lorsqu'on examine l'influence de cette variable sur
+la moyenne générale de l'étudiant.
+Pour chacune des régressions effectuées, le coefficient de détermination R2
+ (i.e. le coefficient de corrélation multiple au carré) est indiqué. Ce
+coefficient n'est pas très élevé. En effet, il prend une valeur moyenne de
+0,21 pour les régressions effectuées dans cette première partie, où la
+variable dépendante représente le résultat des étudiants à un cours
+donné. Dans la deuxième partie, où la variable dépendante représente la
+moyenne générale des étudiants, la valeur moyenne du coefficient de
+détermination est de 0,30. Ces valeurs sont du même ordre de grandeur
+que celles obtenues dans des études sur des phénomènes similaires19
+. Ces
+études qui ne considèrent en fait qu'un nombre restreint de variables
+n'épuisent évidemment pas toutes les sources d'explication de la réalité
+que nous cherchons à étudier. I
+L'ÉTUDIAN
+ -
+T DE CÉGE
+ L'INFLUENC
+P SUR SA PERFORMANC
+E D
+E
+E
+ GLOBALE A
+ CERTAINEU PROGRAMM
+S
+E CARACTÉQDE B.A.A.
+Dans la première partie de cette étude, nous avons cherché à voir si
+certaines variables contribuaient à expliquer les résultats des étudiants à
+chacun des cours offerts en première année du programme de B.A.A.
+ainsi qu'à certains cours de deuxième année.
+Dans cette seconde partie, nous nous demandons si les effets observés
+au niveau de chacun des cours se retrouvent au niveau de la moyenne
+18. Ces résultats sont également consignés dans l'annexe statistique disponible sur
+demande.
+19. Voir par exemple: Allan L.G., Darling A.L., Hughes R.C. et Rosenfeld (1983) ou
+encore: Summers A.A. et Wolfe B.L. (1977).
+196 L'ACTUALITÉ ÉCONOMIQUE
+générale obtenue par l'étudiant pour la première année du programme.
+Nous cherchons à voir, de plus, si certaines variables demeurent significatives lorsqu'on considère les résultats de l'étudiant en deuxième année et
+même sa moyenne pour l'ensemble du programme20
+.
+Le modèle utilisé est essentiellement le même que celui que nous
+avons présenté dans la première partie ; seule la variable dépendante est
+changée puisque nous considérons maintenant la moyenne générale de
+l'étudiant et non plus ses résultats à chacun des cours.
+Nous avons effectué une première série de régressions qui tenait
+compte du score Z, des résultats aux tests, du type de formation (sciences,
+sciences humaines et D.E.C. professionnel), de l'année d'admission et du
+fait d'avoir suivi ou non au cégep des cours dans les disciplines enseignées
+au B.A.A.
+a) Analyse des résultats obtenus
+La lecture du tableau 4 nous permet de constater que les coefficients
+qui affectent les variables score Z, résultats aux tests, concentration
+sciences, sont positifs et très significatifs. Ces résultats se vérifient aussi
+bien au niveau de la moyenne générale de première et de deuxième
+année, qu'en regard des résultats pour l'ensemble du programme. Toutefois, la valeur des coefficients diminue après la première année. Ce qui
+laisse penser que les effets de ces variables s'estompent graduellement.
+La variable « D.E.C. professionnel » qui avait toujours été positive mais
+rarement significative, lorsque nous analysions la performance des étudiants aux différents cours de première année, est cette fois, tantôt
+positive tantôt négative mais jamais significative.
+Par ailleurs, les coefficients qui affectent les variables comptabilité et
+économie sont positifs et significatifs au niveau de la première année.
+Toutefois seul le coefficient qui affecte la variable comptabilité demeure
+significatif, tout en étant beaucoup plus faible, au niveau de la deuxième
+année et pour l'ensemble des trois années.
+On ne peut donc rejeter l'hypothèse que les étudiants qui ont suivi un
+cours de comptabilité au cégep réussissent mieux dans le programme,
+surtout en première année, et que cet effet perdure aussi, mais à un degré
+moindre, au niveau de l'ensemble des trois années. Il semble, de plus, que
+les étudiants qui ont suivi un cours d'économie au cégep ont, au niveau de
+la première année, une moyenne générale légèrement supérieure. Tou20. Les moyennes de première et de deuxième année sont calculées avant reprise alors
+que la moyenne pour l'ensemble des trois années est celle qui apparaît au bulletin de
+l'étudiant à la toute fin du programme.
+ANALYSE DE LA PERFORMANCE D'ÉTUDIANTS 197
+tefois, cet effet ne se fait plus sentir par la suite. Siegfried et Raymond
+(1984) arrivent d'ailleurs à des résultats similaires. Par ailleurs, le fait
+d'avoir suivi un cours d'administration, de sociologie ou de psychologie
+ne semble pas influencer de façon significative la moyenne générale de
+l'étudiant.
+b) Autres estimations
+Nous avons refait cette même régression, en ajoutant une variable
+dichotomique pour tenir compte des étudiants qui avaient suivi plus d'un
+cours de comptabilité au cégep, afin de déceler l'effet additionnel de cette
+variable. Les résultats de ces estimations sont présentés au tableau 5. On
+remarque que les coefficients qui affectent cette variable sont toujours
+négatifs et que la statistique de Student, dans chacun des cas, est relativement élevée et même significative à un niveau de confiance de 95 %, en ce
+qui a trait à la moyenne de deuxième année et à la moyenne générale pour
+les trois années du programme.
+On ne peut donc rejeter l'hypothèse que la moyenne générale de
+l'étudiant en deuxième année, et pour l'ensemble du programme, est plus
+faible s'il a suivi plus d'un cours de comptabilité au cégep que s'il n'en a
+suivi qu'un seul. Toutefois, on ne pourrait sans doute pas établir un lien
+de causalité direct entre ces deux phénomènes. Il n'est pas impossible, par
+ailleurs, que l'inscription de l'étudiant à plusieurs cours de comptabilité
+au cégep, se soit faite au détriment d'une formation plus large. L'interprétation de ces résultats, sur le plan pédagogique, dépasse largement le
+cadre de cette étude.
+De plus nous avons tenté de séparer au moyen d'une variable dichotomique les étudiants de la concentration sciences humaines selon la nature
+des cours suivis au cégep : profil sciences administratives ou concentration sciences humaines E.A. tels que définis précédemment. Le coefficient qui affectait cette variable était encore une fois faible et non significatif, et les autres coefficients à peu près inchangés21
+. On ne peut donc
+rejeter l'hypothèse qu'il n'y a aucune différence dans la performance de
+ces deux groupes d'étudiants.
+Enfin nous avons tenté d'ajouter au modèle une variable dichotomique pour tenir compte du type de collège fréquenté par l'étudiant (privé
+ou public). Dans ce cas-ci aussi, le coefficient qui affectait la variable
+«cégep privé» était faible de même que sa statistique de Student. On
+notait également que les autres coefficients de la régression étaient pratiquement inchangés22
+. On ne peut donc rejeter l'hypothèse qu'il n'y a
+21. Ces résultats sont également consignés dans l'annexe statistique disponible sur
+demande.
+22. Idem.
+198 L'ACTUALITÉ ÉCONOMIQUE
+aucune différence significative dans la performance des étudiants admis
+au programme de 1978 à 1983 selon que ceux-ci venaient d'un collège
+privé ou public. Notons cependant que ce groupe d'étudiants n'est évidemment pas représentatif de l'ensemble des collèges privés et publics du
+Québec.
+Ceci ne veut pas dire pour autant que tous les cégeps préparent
+également bien à entrer à l'université. Les résultats qui sont rapportés ici
+ne contiennent aucun élément qui nous permette déjuger de la préparation assurée par chacun des collèges pris individuellement.
+CONCLUSION
+L'analyse de la performance des étudiants inscrits à un programme de
+baccalauréat en administration en fonction de leurs caractéristiques à
+l'entrée a fait ressortir plusieurs éléments qui nous apparaissent importants. En effet, nous avons pu vérifier qu'il existait une corrélation assez
+forte entre les résultats scolaires de l'étudiant au cégep et ses résultats à
+l'université. Nous avons pu également constater la relation positive qui
+existe entre les résultats de l'étudiant aux tests d'admission et sa performance dans le programme.
+Nous avons observé, de plus, l'existence d'une relation positive entre
+le rendement scolaire de l'étudiant et la concentration sciences au cégep.
+À score Z et résultats aux tests égaux, l'étudiant qui a choisi la concentration sciences au cégep réussit en général mieux dans tous ses cours de
+première année et cet effet se fait d'ailleurs sentir tout au long du programme. Une interprétation possible serait évidemment que la concentration sciences prépare mieux l'étudiant. Une autre pourrait être qu'il
+existe un phénomène «d'auto-sélection» informelle par lequel les étudiants qui ont le plus de facilité en classe, qui sont les plus motivés ou plus
+travailleurs sont incités à choisir cette concentration.
+Si cette deuxième hypothèse s'avérait la bonne, il faudrait admettre
+que le score Z des étudiants qui ont choisi cette concentration n'est pas
+totalement comparable à celui des autres groupes, c'est-à-dire qu'être un
+étudiant moyen en sciences ne représente pas la même réalité qu'être un
+étudiant moyen en sciences humaines. Nous n'avons pas ici les éléments
+requis pour justifier une interprétation plutôt qu'une autre. Nous devons
+nous contenter d'observer les résultats de notre analyse. Cependant
+quelle que soit l'interprétation retenue, il semble qu'une sélection qui
+aurait pour but, par exemple, d'admettre les étudiants susceptibles d'obtenir les plus hautes moyennes générales devrait tenir compte de cette
+réalité. Toutefois, abstraction faite de la concentration sciences, il ne
+semble pas y avoir de différence significative dans la performance des
+étudiants présentant différents profils de formation.
+ANALYSE DE LA PERFORMANCE D'ÉTUDIANTS 199
+Enfin, le fait d'avoir suivi un cours de comptabilité au cégep contribue
+non seulement à hausser les résultats des étudiants aux cours de comptabilité, mais aussi à hausser légèrement leurs moyennes générales pour
+l'ensemble du programme. Toutefois, on n'observe pas le même résultat
+pour les étudiants qui ont suivi plus d'un cours de comptabilité au cégep. En
+effet, toutes autres choses étant égales par ailleurs, la moyenne générale
+de ces étudiants n'est virtuellement pas plus élevée que celle des étudiants
+qui n'ont suivi aucun cours de comptabilité au cégep. Serait-ce, comme
+nous l'avons mentionné précédemment, le symptôme d'une formation
+plus pointue, où la place accordée à la formation générale est plus faible ?
+La réponse à cette question dépasse largement le cadre de cette analyse.
+De plus nous ne pouvons rejeter l'hypothèse que, pour ce qui est des
+individus considérés dans cette étude, il n'y a aucune différence significative dans la performance des étudiants selon qu'ils viennent des collèges
+privés ou publics. Ceci ne veut pas dire pour autant, qu'à score Z et
+résultats aux tests égaux, il n'existe aucune différence dans la performance des étudiants qui arrivent des différents collèges pris individuellement. Nous n'avons pas considéré cette question.
+Il nous apparaît important de rappeler, en terminant, que nous avons
+retenu, pour fins d'analyse, uniquement les étudiants qui ont persévéré
+au moins une année dans le programme. Toutefois, une étude qui s'intéresse à la fois aux éléments qui influencent le rendement scolaire et à ceux
+qui sont davantage corrélés au taux de persévérance dans le programme
+est présentement en cours.
+Nous tenons aussi à souligner que cette étude a été faite dans le
+contexte d'un programme particulier. Il serait certes fort intéressant de
+voir si les résultats obtenus dans le cadre de cette étude peuvent se
+transposer à d'autres programmes de formation notamment à des programmes de baccalauréat spécialisé en économie. Mais, pour le moment,
+il faut considérer ces résultats comme une démarche préliminaire en vue
+de mieux cerner les éléments qui semblent corrélés à la performance des
+étudiants à l'université.
+200 L'ACTUALITÉ ÉCONOMIQUE
+BIBLIOGRAPHIE
+ALLAN L.G., DARLING A.L., HUGUES R.C. et JOSENFELDJ. , «An Examination of Performanc e of First Year Students at Ontario University : An
+Admission Perspective », The Canadian Journal of Higher Education,
+1983, vol. XIII-3 , pp . 37-54.
+BAC H G.L., KELLEY ALLEN C., « Improving the Teaching of Economies:
+Achievements and Aspirations», American Economie Review, mai 1984,
+vol. 74-2, pp. 13-18.
+DAGENAIS, DENYSE L., «Th e Use of a Probit Model for the Validation of
+Sélection Procédures» , Educational and Psychological Measurements,
+1984, vol. 44-3, pp. 629-647.
+FIZEL JOH N L., JOHNSO N JERRY D., «Th e effects of Macro/Micro Course
+Sequencing on Learning and Attitudes in Principles of Economies»,
+Research in Economie Education, printemps 1986, pp. 87-97.
+FRENZEL K.A. MCCREAD Y D.J., « Economies of Education : Th e Developmen t of a Sub-Discipline», The American Economist, 1982, vol. 26,
+p p. 35-42.
+HANSEN LEE W., «Wha t Knowledge is Most Worth Knowing for Economies Majors?» , American Economie Review, ma i 1986, vol. 76-2,
+p p . 149-152.
+MADDALA G.S., Limited-Dependent and Qualitative Variables in Econometrics,
+Cambridge University Press, Cambridge , 1983.
+SIEGFRIED JOHN , RAYMOND JENNIE E., «Profile of Senior Economies Majors in the United States», American Economie Review, mai 1984,
+vol. 74-2, pp . 19-25.
+SUMANSKY JOH N M., «Compute r Applications in Pre-College Economies», American Economie Review, mai 1985, vol. 75-2, pp . 80-84.
+SUMMERS ANIT A A., WOLFE BARBARA L., «D O Schools Make a Différence?» , American Economie Review, septembr e 1977, vol. 67-4,
+p p. 639-652.
+TABLEA U 1
+A - RÉPARTITION DES ÉTUDIANTS ; EN POURCENTAGE, SELON CERTAINES CARACTÉRISTIQUES :
+TYPE DE FORMATION, ANNÉE D'ADMISSION, TYPE D'INSTITUTION
+Répartition des étudiants selon les
+types de formation
+Répartition des étudiants selon l'année
+d'admission
+Répartition des étudiants selon le type
+d'institution
+Concentration
+Sciences

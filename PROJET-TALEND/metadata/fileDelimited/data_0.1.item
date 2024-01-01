@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Q8X-AKaOEe6QxJVoSf9y0w" name="data" dataPackage="_Q8X-AaaOEe6QxJVoSf9y0w" Server="Localhost 127.0.0.1" FilePath="/home/sofiene/cours/5em/Data_science/3_stephen_curry_shot_chart_2023.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_Q8X-AaaOEe6QxJVoSf9y0w" name="default" dataManager="_Q8X-AKaOEe6QxJVoSf9y0w">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_Q8X-AqaOEe6QxJVoSf9y0w" id="_DXkVMKaOEe6QxJVoSf9y0w" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-A6aOEe6QxJVoSf9y0w" label="top" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-BKaOEe6QxJVoSf9y0w" label="left" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-BaaOEe6QxJVoSf9y0w" label="date" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-BqaOEe6QxJVoSf9y0w" label="qtr" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-B6aOEe6QxJVoSf9y0w" label="time_remaining" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-CKaOEe6QxJVoSf9y0w" label="result" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-CaaOEe6QxJVoSf9y0w" label="shot_type" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-CqaOEe6QxJVoSf9y0w" label="distance_ft" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-C6aOEe6QxJVoSf9y0w" label="lead" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-DKaOEe6QxJVoSf9y0w" label="lebron_team_score" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-DaaOEe6QxJVoSf9y0w" label="opponent_team_score" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-DqaOEe6QxJVoSf9y0w" label="opponent" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-D6aOEe6QxJVoSf9y0w" label="team" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-EKaOEe6QxJVoSf9y0w" label="season" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-EaaOEe6QxJVoSf9y0w" label="color" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q8X-EqaOEe6QxJVoSf9y0w" label="Column15" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
